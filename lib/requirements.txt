@@ -1,0 +1,8 @@
+requests
+pandas
+matplotlib
+tensorflow
+scikit-learn
+numpy
+ta
+mplfinance
